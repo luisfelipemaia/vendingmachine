@@ -1,2 +1,2 @@
-# vendingmachine
-java vendingmachine
+# vending-machine
+java vending-machine
